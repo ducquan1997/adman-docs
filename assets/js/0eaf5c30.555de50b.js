@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadman_docs=self.webpackChunkadman_docs||[]).push([[6597],{1794:a=>{a.exports=JSON.parse('{"label":"minigame","permalink":"/blog/tags/minigame","allTagsPath":"/blog/tags","count":8}')}}]);

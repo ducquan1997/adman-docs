@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadman_docs=self.webpackChunkadman_docs||[]).push([[3411],{3901:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/vong-quay","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

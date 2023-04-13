@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadman_docs=self.webpackChunkadman_docs||[]).push([[1383],{6685:a=>{a.exports=JSON.parse('{"label":"v\xf2ng quay 6","permalink":"/blog/tags/vong-quay-6","allTagsPath":"/blog/tags","count":1}')}}]);
